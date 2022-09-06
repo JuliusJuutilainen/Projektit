@@ -15,8 +15,8 @@ Ohjelmassa on graafinen käyttöliittymä, joka on web3.0 tyylin inspiroima. Kä
 Huomionarvoista on, että asetustiedostoissa voi olla vain yksi aktiivinen tutkinto. Tutkinnon vaihto nollaa edellisen tutkinnon suoritteet.
 
 __Tekijät ja yhteystiedot:__
-Julius Juutilainen 292058 julius.juutilainen@tuni.fi, julius.juutilainen@protonmail.com
-Joni Koskinen H291631 joni.e.koskinen@tuni.fi
+Julius Juutilainen julius.juutilainen@tuni.fi, julius.juutilainen@protonmail.com
+Joni Koskinen joni.e.koskinen@tuni.fi
 
 __Edit 6.9.2022:__
 Joni on kovempi koodivelho, kuin minä itse. Syvemmällä dokumentaatiossa on parempaa erittelyä kummankin vastuualueista, mutta lyhyesti toteutin suurimmilta osin käyttöliittymän ja olin mukana ohjelmoimassa kaikkea muuta. 
