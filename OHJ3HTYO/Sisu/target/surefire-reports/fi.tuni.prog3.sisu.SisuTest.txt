@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: fi.tuni.prog3.sisu.SisuTest
+-------------------------------------------------------------------------------
+<<<<<<< HEAD
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.557 sec
+||||||| 02c27c0
+<<<<<<< HEAD
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.074 sec <<< FAILURE!
+fi.tuni.prog3.sisu.SisuTest.testController()  Time elapsed: 0.027 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.HashMap.put(Object, Object)" because "fi.tuni.prog3.sisu.Controller.allCourses" is null
+	at fi.tuni.prog3.sisu.Controller.addCourses(Controller.java:321)
+	at fi.tuni.prog3.sisu.SisuTest.testController(SisuTest.java:91)
+
+=======
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.891 sec
+>>>>>>> f241007bf10ce0d54bba7f224266396cb639b9fb
+=======
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.671 sec <<< FAILURE!
+fi.tuni.prog3.sisu.SisuTest.testController()  Time elapsed: 0.024 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.HashMap.put(Object, Object)" because "fi.tuni.prog3.sisu.Controller.allCourses" is null
+	at fi.tuni.prog3.sisu.Controller.addCourses(Controller.java:347)
+	at fi.tuni.prog3.sisu.SisuTest.testController(SisuTest.java:104)
+
+>>>>>>> c07b36229e9d6535d1f35b48ef4d93106d2c6f65

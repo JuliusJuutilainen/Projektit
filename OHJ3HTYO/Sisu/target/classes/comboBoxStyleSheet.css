@@ -1,0 +1,29 @@
+/** .text changes all text to white, easiest workaround was to make combo boxes their own css */
+
+.combo-box .list-view .list-cell {
+    -fx-text-fill: #000 !important;
+}
+
+.combo-box-base {
+    -fx-color: #313142;
+    -fx-background-color: #15151C, #313142, #313142, #078CBB;
+}
+
+.combo-box .arrow {
+    -fx-background-color: #FAF7E2;
+}
+
+.combo-box .arrow-button:hover {
+    -fx-color: #4d4d69;
+}
+
+/* Arrow button goes grey when selected*/
+
+/**.combo-box .list-cell{
+    -fx-background-color:#FAF7E2;
+    -fx-text-fill: #000 !important;
+}*/
+
+.combo-box {
+    -fx-control-inner-background: #FAF7E2;
+}

@@ -1,0 +1,134 @@
+/** file mainGuiStyleSheet.css*/
+
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 1;
+    -fx-background-color: #15151C;
+}
+
+.tab-pane {
+    -fx-tab-min-width: 120px;
+}
+
+.tab {
+    -fx-background-insets: 0 1 0 1, 0, 0;
+}
+
+.tab-pane .tab {
+    -fx-background-color: #313142;
+
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: #1F1F2A;
+
+}
+
+
+.tab .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #FAF7E2;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.tab:selected .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #FAF7E2;
+}
+
+.anchor-pane {
+    -fx-background-color: #1F1F2A;
+}
+
+.tree-cell {
+    -fx-text-fill: #FAF7E2;
+    -fx-background-color: #1F1F2A;
+    -fx-border-color: #313142;
+    -fx-border-width: 1;
+
+}
+
+.tree-cell:selected {
+    -fx-font-weight: bold;
+    -fx-background-color: #313142;
+}
+
+.tree-cell>.tree-disclosure-node>.arrow {
+    -fx-background-color: #FAF7E2;
+}
+
+
+.check-box .box {
+
+    -fx-background-color: #FAF7E2;
+
+}
+
+.check-box:selected .box {
+    -fx-background-color: #5E7CE2;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: #FAF7E2;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track {
+    -fx-background-color: #FAF7E2;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0.0em;
+    /*Size from element size (Element = em)*/
+    -fx-border-radius: 2.0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #303041;
+    -fx-background-insets: 2, 0, 0;
+    -fx-background-radius: 2;
+}
+
+.scroll-bar:vertical .increment-arrow,
+.scroll-bar:vertical .decrement-arrow,
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow {
+    -fx-background-color: #313142;
+}
+
+.scroll-pane>.viewport {
+    -fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.blue-button {
+    -fx-background-color: #5E7CE2;
+    -fx-text-fill: #FAF7E2;
+}
+
+.blue-button:hover {
+    -fx-background-color: #172f7e;
+}
+
+.red-button {
+    -fx-background-color: #E4572E;
+    -fx-text-fill: #FAF7E2;
+}
+
+.red-button:hover {
+    -fx-background-color: #872d12;
+    -fx-text-fill: #FAF7E2;
+}
+
+
+.text-field {
+    -fx-control-inner-background: #FAF7E2;
+}
+
+
+
+
+/** dark: #1F1F2A very dark: #15151C light: #313142 GREEN:  #00A676 RED: #E4572E BLUE: #5E7CE2 Eggshell: #FFFFFA   */

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
+<testsuite tests="4" failures="0" name="fi.tuni.prog3.sisu.SisuTest" time="9.55" errors="0" skipped="0">
+||||||| 02c27c0
+<<<<<<< HEAD
+<testsuite tests="5" failures="1" name="fi.tuni.prog3.sisu.SisuTest" time="10.065" errors="0" skipped="0">
+=======
+<testsuite tests="4" failures="0" name="fi.tuni.prog3.sisu.SisuTest" time="8.883" errors="0" skipped="0">
+>>>>>>> f241007bf10ce0d54bba7f224266396cb639b9fb
+=======
+<testsuite tests="5" failures="1" name="fi.tuni.prog3.sisu.SisuTest" time="9.658" errors="0" skipped="0">
+>>>>>>> c07b36229e9d6535d1f35b48ef4d93106d2c6f65
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.1+12-LTS-39"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Joni\projektikansio\projektikansio\projekti\sisu"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="FI"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="fi.tuni.prog3.sisu.**.*Test"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Joni\projektikansio\projektikansio\projekti\sisu"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Joni\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;E:\Oculus\Support\oculus-runtime;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\PowerShell\7\;C:\Users\Joni\AppData\Local\Microsoft\WindowsApps;C:\Users\Joni\AppData\Local\Programs\Git\cmd;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Joni"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="Joni"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+<<<<<<< HEAD
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=fi.tuni.prog3.sisu.**.*Test -Dmaven.ext.class.path=C:\Program Files\NetBeans-13\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 surefire:test"/>
+||||||| 02c27c0
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans-13\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 test"/>
+=======
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.5\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 test"/>
+>>>>>>> c07b36229e9d6535d1f35b48ef4d93106d2c6f65
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.1"/>
+    <property name="user.language" value="fi"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+<<<<<<< HEAD
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testDegree" time="8.382"/>
+||||||| 02c27c0
+<<<<<<< HEAD
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testModule" time="1.725"/>
+=======
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testDegree" time="8.424"/>
+>>>>>>> c07b36229e9d6535d1f35b48ef4d93106d2c6f65
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testStudent" time="0"/>
+<<<<<<< HEAD
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testModule" time="1.151"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testCourse" time="0.017"/>
+||||||| 02c27c0
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testDegree" time="8.296"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testCourse" time="0.017"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testController" time="0.027">
+    <failure message="Cannot invoke &quot;java.util.HashMap.put(Object, Object)&quot; because &quot;fi.tuni.prog3.sisu.Controller.allCourses&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke &quot;java.util.HashMap.put(Object, Object)&quot; because &quot;fi.tuni.prog3.sisu.Controller.allCourses&quot; is null
+	at fi.tuni.prog3.sisu.Controller.addCourses(Controller.java:321)
+	at fi.tuni.prog3.sisu.SisuTest.testController(SisuTest.java:91)
+</failure>
+  </testcase>
+=======
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testStudent" time="0.006"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testCourse" time="0.366"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testDegree" time="7.438"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testModule" time="1.073"/>
+>>>>>>> f241007bf10ce0d54bba7f224266396cb639b9fb
+=======
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testCourse" time="0.018"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testModule" time="1.192"/>
+  <testcase classname="fi.tuni.prog3.sisu.SisuTest" name="fi.tuni.prog3.sisu.SisuTest.testController" time="0.024">
+    <failure message="Cannot invoke &quot;java.util.HashMap.put(Object, Object)&quot; because &quot;fi.tuni.prog3.sisu.Controller.allCourses&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke &quot;java.util.HashMap.put(Object, Object)&quot; because &quot;fi.tuni.prog3.sisu.Controller.allCourses&quot; is null
+	at fi.tuni.prog3.sisu.Controller.addCourses(Controller.java:347)
+	at fi.tuni.prog3.sisu.SisuTest.testController(SisuTest.java:104)
+</failure>
+  </testcase>
+>>>>>>> c07b36229e9d6535d1f35b48ef4d93106d2c6f65
+</testsuite>
