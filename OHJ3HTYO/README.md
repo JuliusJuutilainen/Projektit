@@ -1,3 +1,6 @@
+__TYÖ JULKAISTU OMIIN GITTEIHIN YHTEISYMMÄRRYKSESSÄ__
+
+
 **OHJ3 Harjoitustyö : Sisusta Selvää**
 
 __Lyhyesti:__
