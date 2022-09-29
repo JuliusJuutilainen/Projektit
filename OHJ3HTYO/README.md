@@ -1,4 +1,4 @@
-__TYÖ JULKAISTU OMIIN GITTEIHIN YHTEISYMMÄRRYKSESSÄ__
+__TYÖ JULKAISTU OMIIN GITTEIHIN YHTEISYMMÄRRYKSESSÄ, alla alkuperäinen README__
 
 
 **OHJ3 Harjoitustyö : Sisusta Selvää**
@@ -22,4 +22,4 @@ Julius Juutilainen julius.juutilainen@tuni.fi, julius.juutilainen@protonmail.com
 Joni Koskinen joni.e.koskinen@tuni.fi
 
 __Edit 6.9.2022:__
-Joni on kovempi koodivelho, kuin minä itse. Syvemmällä dokumentaatiossa on parempaa erittelyä kummankin vastuualueista, mutta lyhyesti toteutin suurimmilta osin käyttöliittymän ja olin mukana ohjelmoimassa kaikkea muuta. 
+Kansion sisälle sukeltaessa löytää dokumentaation, täältä aukeaa ensisijaiset vastuualueet. 
