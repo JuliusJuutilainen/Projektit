@@ -11,3 +11,5 @@ Idea oli tehdä peli suomalaisesta mökkielämästä twistillä. Olet tavallinen
 Ohjelmointi 3- kurssin projektina oli toteuttaa klooni SISU-järjestelmästä. Työn teimme parityönä, työparinani toimi Joni Koskinen. Projekti julkaistu gitteihin yhteisymmärryksessä.
 
 En laita tänne kaikkea kokonaisuudessaan, mutta laitan koodin mitä olen kirjoittanut ja jonkin toimivan version. Kansioiden sisäisissä READMEissä on täsmennetty sisältöjä.
+
+Huom. Sisällön voi odottaa kasvavan samaa tahtia, kuin projekteja tulee julkaisukuntoon.
