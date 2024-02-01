@@ -1,15 +1,16 @@
-# Projektit
-Moi! Mä olen Julius, ja nää on mun projekteja. Niitä ei ole paljoa, mutta niihin on käytetty runsaasti aikaa ja niillä on opittu paljon.
-Tätä kirjoittaessa projektien lukumäärä on 2, toinen on koulu- ja toinen videopeliprojekti.
+# Projects
+Hi! I'm Julius, and these are my projects. There aren't many of them, but a lot of time has been invested in them, and much has been learned.
 
-1. Moekki_sim eli mökkisimulaattori (Tehty Santeri Ruposen kanssa, @Rouzee): 
-Idea oli tehdä peli suomalaisesta mökkielämästä twistillä. Olet tavallinen suomalainen mies matkalla mökillesi, mutta ajat mökkitien mutkassa kolarin ja  jäät jumiin mökille. Mökki on kaukana perähikiässä ja sukulaisia käy seuraavan kerran jouluna... 
+As of writing this, the number of public (and abandoned) projects is 2. I will add more as stuff reaches the chopping block. I dabble in game development, but haven't really had time to finish anythin. Moekki_sim is kinda playable, though. Expect it to crash. 
 
-     Pelin juju onkin hengissä pysyminen, keinoja ovat kaikki mitä keksii. Metsästä, varasta, sopeudu. Naapureita on, mutta tontut seuraavat kuka onkaan ollut     kiltti. Peli huipentuu jouluun, mutta ei paljasteta siitä vielä enempää. Jonkinasteinen demo tästä tuli tehtyä, mutta kehitys on ollut jäissä nyt vuoden päivät .
+    Moekki_sim (Cabin Simulator) - Created with Santeri Ruponen, @Rouzee:
+    The idea was to create a game about Finnish cabin life with a twist. You are an ordinary Finnish man on your way to your cabin, but you crash on the cabin road and get stuck there. The cabin is far in the wilderness, and relatives only visit on Christmas...
 
-2. SISU-klooni
-Ohjelmointi 3- kurssin projektina oli toteuttaa klooni SISU-järjestelmästä. Työn teimme parityönä, työparinani toimi Joni Koskinen. Projekti julkaistu gitteihin yhteisymmärryksessä.
+    The essence of the game is survival, using whatever means one can think of. Hunt, steal, adapt. There are neighbors, but the elves are watching to see who has been nice. The game culminates in Christmas, but we won't reveal more about it yet. We managed to create some kind of demo, but development has been on hold for a year now.
 
-En laita tänne kaikkea kokonaisuudessaan, mutta laitan koodin mitä olen kirjoittanut ja jonkin toimivan version. Kansioiden sisäisissä READMEissä on täsmennetty sisältöjä.
+    SISU Clone:
+    As a project for Programming 3 course, the task was to implement a clone of the SISU system. I worked on this project as a pair with Joni Koskinen. The project was published on GitHub with mutual consent.
 
-Huom. Sisällön voi odottaa kasvavan samaa tahtia, kuin projekteja tulee julkaisukuntoon.
+    I won't post everything here, but I will share the code I've written and a somewhat functional version. The READMEs within the folders specify contents.
+
+    Note: The content is expected to grow at the same pace as projects are ready for publication.
